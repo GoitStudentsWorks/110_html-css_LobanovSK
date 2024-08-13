@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/X-level/",
+    "build": "vite build --base=/110_html-css_LobanovSK/",
     "preview": "vite preview"
   },
   "devDependencies": {
